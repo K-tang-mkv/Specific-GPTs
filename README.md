@@ -1,4 +1,5 @@
-# Specific-GPTs [简体中文](https://github.com/K-tang-mkv/Specific-GPTs/blob/main/README_cn.md#%E4%B8%93%E5%AE%B6%E5%A4%A7%E6%A8%A1%E5%9E%8B-)
+# Specific-GPTs 
+[简体中文](https://github.com/K-tang-mkv/Specific-GPTs/blob/main/README_cn.md#%E4%B8%93%E5%AE%B6%E5%A4%A7%E6%A8%A1%E5%9E%8B-)
 🚀 Apart from the general language model (LLM), we also need more domain specific GPTs to assist us in handling downstream tasks or driving industry development.
 
 ### [roomGPT](https://github.com/Nutlope/roomGPT) - redesign your room with AI
