@@ -1,5 +1,5 @@
 # 专家大模型 🚀
-除了通用大语言模型（LLM）之外，我们还需要更多特定领域的GPT来帮助我们处理下游任务以及推动行业发展。
+解决通用大模型1.知识边界 2.幻觉 两个问题。除了通用大语言模型（LLM）之外，我们还需要更多特定领域的GPT来帮助我们处理下游任务以及推动行业发展。
 
 ### [roomGPT](https://github.com/Nutlope/roomGPT) - 用AI重新设计你的房间
 它基于 [ControlNet](https://github.com/lllyasviel/ControlNet) 来控制生成不同的房间。 通过该应用程序上传任何房间的照片，照片通过Nextjs API路由发送到云端的模型上，然后返回您生成的房间。 
