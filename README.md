@@ -17,3 +17,5 @@ The series of models are based on the general Chinese language base models such 
 ### [FoodGPT](https://huggingface.co/spaces/thirdai/FoodUDT-1B) - (didn't opensource)
 A “specialized” billion-parameter FoodUDT-1B model from ThirdAI that is pre-trained on 500K recipes. An expert network, FoodUDT-1B, trained only on recipes, views “meat” and “sugar” as non-complementary flavors. Meat and sugar usually don’t go together in a recipe. For a food expert, everything is about the pairing, the taste, enhancement, etc.
 
+### [WriteGPT](https://github.com/EssayKillerBrain/WriteGPT/tree/master) - help you write
+WriteGPT is a generative AI writing framework based on the state of the art OCR and NLP models. The first version of the finetune model is aimed at Chinese college entrance examination compositions (mainly argumentative essays), and can effectively generate articles that conform to human cognition. Most of the articles can reach the passing composition level of normal high school students after testing.
