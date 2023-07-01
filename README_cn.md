@@ -16,4 +16,6 @@
 ### [FoodGPT](https://huggingface.co/spaces/thirdai/FoodUDT-1B) - 未开源
 来自 ThirdAI 的“专用”十亿参数 FoodUDT-1B 模型，已针对 50 万份食谱进行了预训练。 专家网络 FoodUDT-1B 仅接受过食谱培训， 对于美食专家模型来说，一切都与搭配、味道、增强等有关。
 
+### [WriteGPT](https://github.com/EssayKillerBrain/WriteGPT/tree/master) - 写作助手
+WriteGPT是基于OCR、NLP领域的最新模型所构建的生成式文本创作AI框架，目前第一版finetune模型针对高考作文（主要是议论文），可以有效生成符合人类认知的文章，多数文章经过测试可以达到正常高中生及格作文水平。
 
