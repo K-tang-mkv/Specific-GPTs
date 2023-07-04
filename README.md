@@ -19,3 +19,6 @@ A “specialized” billion-parameter FoodUDT-1B model from ThirdAI that is pre-
 
 ### [WriteGPT](https://github.com/EssayKillerBrain/WriteGPT/tree/master) - help you write
 WriteGPT is a generative AI writing framework based on the state of the art OCR and NLP models. The first version of the finetune model is aimed at Chinese college entrance examination compositions (mainly argumentative essays), and can effectively generate articles that conform to human cognition. Most of the articles can reach the passing composition level of normal high school students after testing.
+
+### [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - Legal LLM 
+An open-source legal large language model named ChatLaw. Due to the importance of data quality, we carefully designed a legal domain fine-tuning dataset. Additionally, to overcome the problem of model hallucinations in legal data screening during reference data retrieval, we introduce a method that combines vector database retrieval with keyword retrieval to effectively reduce the inaccuracy of relying solely on vector database retrieval. Furthermore, we propose a self-attention method to enhance the ability of large models to overcome errors present in reference data, further optimizing the issue of model hallucinations at the model level and improving the problem-solving capabilities of large models.
