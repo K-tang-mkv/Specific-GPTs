@@ -22,3 +22,7 @@ WriteGPT is a generative AI writing framework based on the state of the art OCR 
 
 ### [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - Legal LLM 
 An open-source legal large language model named ChatLaw. Due to the importance of data quality, we carefully designed a legal domain fine-tuning dataset. Additionally, to overcome the problem of model hallucinations in legal data screening during reference data retrieval, we introduce a method that combines vector database retrieval with keyword retrieval to effectively reduce the inaccuracy of relying solely on vector database retrieval. Furthermore, we propose a self-attention method to enhance the ability of large models to overcome errors present in reference data, further optimizing the issue of model hallucinations at the model level and improving the problem-solving capabilities of large models.
+
+### [Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)
+We have open-sourced a specific LLaMA-7B model, which has been fine-tuned using the Instruct-tuning technique with Chinese medical instructions. To achieve this, we constructed a Chinese medical instruction dataset based on a medical knowledge graph and GPT3.5 API. By leveraging this dataset, we were able to fine-tune LLaMA and significantly improve its question-answering performance in the medical domain.
+
